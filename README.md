@@ -1,5 +1,4 @@
-# Hi, I'm Esther Akumah 👋
-## I'm a Data Analyst
+# Hi, I'm Esther Akumah a Data Analyst 👋
 
 ## 📧 Essy4God@gmail.com
 ## 🔗 https://www.linkedin.com/in/esther-a-55b007237
