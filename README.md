@@ -85,13 +85,10 @@ Context arrives mid-project.
 
 ## 📫 Connect With Me
 
-[
 
-https://linkedin.com/in/esther akumah
-[
+https://linkedin.com/in/estherakumah
 
-
-]Essy4God@gmail.com
+Essy4God@gmail.com
 
 ---
 
