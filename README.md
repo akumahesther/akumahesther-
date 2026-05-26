@@ -1,6 +1,6 @@
 # Hi, I'm Esther Akumah a Data Analyst 👋
 
-## 📧 Essy4God@gmail.com
+## 📧 AkumahEsther@gmail.com
 ## 🔗 https://www.linkedin.com/in/esther-a-55b007237
 ## 💻 https://github.com/essy4god-pixel
 
@@ -88,7 +88,7 @@ Context arrives mid-project.
 
 https://linkedin.com/in/estherakumah
 
-Essy4God@gmail.com
+AkumahEsther@gmail.com
 
 ---
 
