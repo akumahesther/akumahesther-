@@ -2,7 +2,7 @@
 
 ## 📧 Essy4God@gmail.com
 ## 🔗 https://www.linkedin.com/in/esther-a-55b007237
-## 💻 https://github.com/essy4god-pixel/
+## 💻 https://github.com/essy4god-pixel
 
 ## About Me
 
