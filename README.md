@@ -2,7 +2,7 @@
 
 ## 📧 Akumahesther@gmail.com
 ## 🔗 https://www.linkedin.com/in/esther-a-55b007237
-## 💻 https://github.com/essy4god-pixel
+## 💻 https://github.com/akumahesther-
 
 ## About Me
 - Welcome! I'm a data analyst dedicated to transforming complex datasets into clear, actionable insights. This portfolio features projects in data cleaning, exploratory data analysis, visualization, dashboard development, and business intelligence using SQL, Python, Excel, Power BI, Tableau, and Pandas. Each project demonstrates practical problem-solving, analytical thinking, and a commitment to data-driven decision-making. Feel free to explore my work and connect with me for collaboration or opportunities
