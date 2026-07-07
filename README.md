@@ -17,12 +17,30 @@ I'm most energized when I'm working on problems that sit at the intersection of 
 - Completed an intensive, structured data analysis program covering end-to-end analytical workflows
 - Gained proficiency in data cleaning, exploration, visualization, and storytelling
 - Worked on real-world datasets and case studies to develop problem-solving skills
+### Tools: MySQL, Power BI, DAX, Excel, Description Statistics 
 
 ### 🛠️ Hands-On Practice — Decodelabs (1 Month)
 - Applied data analysis skills in a practical, project-based environment
 - Strengthened ability to derive actionable insights from complex datasets
 - Collaborated on analytical tasks simulating real industry scenarios
+### Tools: MySQL, Power BI, Excel Power query
 
+### 💼 Experience Excelerate — Research & Documentation Coordinator, Team 25 (1 month)
+Built a SEVIS F-1 Compliance Analytics Dashboard, tracking international student compliance metrics end-to-end:
+Cleaned and structured a 3,524-record SEVIS dataset (87 columns post-cleaning) in Excel/Power Query
+Connected a multi-tab Looker Studio dashboard to a Supabase PostgreSQL database
+Wrote SQL verification queries in pgAdmin to reconcile dashboard metrics against source data, documenting a reconciliation table and flagging metrics that couldn't be verified from the exported data
+Surfaced key compliance findings — including a 53% fee non-payment rate and 86.9% concentration of students at the Master's level
+Delivered a 13-slide final presentation covering the full 4-week analytics pipeline, from data cleaning to live dashboard to insights
+### Tools: PostgreSQL, pgAdmin, Looker Studio, Supabase, Excel/Power Query, PowerPoint
+
+### 💼 Experience CodeAlpha — Data Analytics Intern (1 month)
+Delivered a Healthcare Patient Analytics project on a 5,000-row patient dataset:
+Performed data cleaning and validation in PostgreSQL
+Built an interactive Power BI dashboard using DAX measures for patient outcome and recovery tracking
+Designed a recovery-score proxy metric to analyze patient outcome trends without needing clinical NLP models
+Documented and version-controlled the project on GitHub, with a recorded walkthrough explaining methodology and findings.
+### Tools: PostgreSQL, Power BI, DAX, GitHub
 ---
 
 ## 🧰 Techincal Skills & Tools
@@ -31,10 +49,10 @@ I'm most energized when I'm working on problems that sit at the intersection of 
 - Python | SQL
 
 ## Data Analysis & Manipulation
-- Pandas | NumPy | Excel
+- Excel
 
 ## Data Visualization
-- Matplotlib | Seaborn | Power BI / Tableau
+- Matplotlib | Power BI
 
 ## Tools
 - Data Cleaning & Wrangling
