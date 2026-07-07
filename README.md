@@ -9,6 +9,8 @@
 I'm a passionate and detail-oriented Data Analyst with hands-on training and practical experience in transforming raw data into meaningful insights that drive business decisions. . Though early in my professional journey, I've invested in structured learning and real-world practice to build a strong analytical foundation.
 I'm most energized when I'm working on problems that sit at the intersection of data quality, storytelling, and strategy not just answering "what happened," but "what should we do about it."
 
+📍 Port Harcourt, Nigeria | 🎯 Actively seeking remote Data Analyst roles
+
 ---
 
 ## 🎓 Training & Experience
