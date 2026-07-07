@@ -27,7 +27,7 @@ I'm most energized when I'm working on problems that sit at the intersection of 
 - Collaborated on analytical tasks simulating real industry scenarios
 - Tools Used: MySQL, Power BI, Excel Power query
 
-### 💼 Experience Excelerate — Research & Documentation Coordinator, Team 25 (1 month)
+### 💼 Experience Excelerate — Research & Documentation Coordinator, Team 25 (1 Month)
 Built a SEVIS F-1 Compliance Analytics Dashboard, tracking international student compliance metrics end-to-end:
 Cleaned and structured a 3,524-record SEVIS dataset (87 columns post-cleaning) in Excel/Power Query
 Connected a multi-tab Looker Studio dashboard to a Supabase PostgreSQL database
@@ -36,7 +36,7 @@ Surfaced key compliance findings including a 53% fee non-payment rate and 86.9% 
 Delivered a 13-slide final presentation covering the full 4-week analytics pipeline, from data cleaning to live dashboard to insights
 - Tools Used: PostgreSQL, pgAdmin, Looker Studio, Supabase, Excel/Power Query, PowerPoint
 
-### 💼 Experience CodeAlpha — Data Analytics Intern (1 month)
+### 💼 Experience CodeAlpha — Data Analytics Intern (1 Month)
 Delivered a Healthcare Patient Analytics project on a 5,000-row patient dataset:
 Performed data cleaning and validation in PostgreSQL
 Built an interactive Power BI dashboard using DAX measures for patient outcome and recovery tracking
