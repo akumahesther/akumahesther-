@@ -81,8 +81,8 @@ Excel, Power Query, Pivot Tables
 Sales & orders analysis, 1,200-row dataset (Decodelabs)
 Excel, SQL Server (SSMS)
 
--Netflix/IMDb Content Analysis
-Release trends & rating analysis, 5,806 titles(Capstone Project)
+- Netflix/IMDb Content Analysis
+Release trends & rating analysis from 2018-2021, 5,806 titles(Capstone Project)
 Excel, power Bi dashboard.
 
 ## 🔎Problem-Solving Approach
@@ -109,10 +109,6 @@ Context arrives mid-project.
 ## 📁 Projects
 
 > Projects coming soon — currently building my portfolio with datasets from my training.
-
-## | Project | Description | Tools Used |
-| Capstone Project | Analysis of Netflix Content Trends and Audience Ratings (2018–2021) | Power Bi, Dax, Power Query, Data Modelling|
-🔜 Coming Soon......
 
 ---
 
