@@ -5,8 +5,8 @@
 ## 💻 https://github.com/essy4god-pixel
 
 ## About Me
-
-I'm a passionate and detail-oriented Data Analyst with hands-on training and practical experience in transforming raw data into meaningful insights that drive business decisions. . Though early in my professional journey, I've invested in structured learning and real-world practice to build a strong analytical foundation.
+Welcome! I'm a data analyst dedicated to transforming complex datasets into clear, actionable insights. This portfolio features projects in data cleaning, exploratory data analysis, visualization, dashboard development, and business intelligence using SQL, Python, Excel, Power BI, Tableau, and Pandas. Each project demonstrates practical problem-solving, analytical thinking, and a commitment to data-driven decision-making. Feel free to explore my work and connect with me for collaboration or opportunities
+- I'm a passionate and detail-oriented Data Analyst with hands-on training and practical experience in transforming raw data into meaningful insights that drive business decisions. . Though early in my professional journey, I've invested in structured learning and real-world practice to build a strong analytical foundation.
 I'm most energized when I'm working on problems that sit at the intersection of data quality, storytelling, and strategy not just answering "what happened," but "what should we do about it."
 
 ## 📍 Port Harcourt, Nigeria | 🎯 Actively seeking remote Data Analyst roles
