@@ -72,11 +72,10 @@ PostgreSQL, Power BI, DAX
 
 - SEVIS F-1 Compliance Dashboard
 International student compliance analytics (Excelerate)
-PostgreSQL, Looker Studio, SQL
-HR Analytics Dashboard
-Workforce analytics on 5,000-record 
+PostgreSQL, Looker Studio, Supabase
 
-- HR dataset (Techcrush)
+- HR Analytics Dashboard (Techcrush)
+Workforce analytics on 5,000-record
 Excel, Power Query, Pivot Tables
 
 - E-Commerce Performance Dashboard
