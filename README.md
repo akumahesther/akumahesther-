@@ -63,24 +63,27 @@ Documented and version-controlled the project on GitHub, with a recorded walkthr
 ---
 
 ### 📊 Featured Projects
-Project
-Description
-Tools
-Healthcare Patient Analytics
+
+- Healthcare Patient Analytics
 Patient outcomes dashboard, 5,000-record dataset (CodeAlpha)
 PostgreSQL, Power BI, DAX
-SEVIS F-1 Compliance Dashboard
+
+- SEVIS F-1 Compliance Dashboard
 International student compliance analytics (Excelerate)
 PostgreSQL, Looker Studio, SQL
 HR Analytics Dashboard
-Workforce analytics on ~5,000-record HR dataset (Techcrush)
+Workforce analytics on 5,000-record 
+
+- HR dataset (Techcrush)
 Excel, Power Query, Pivot Tables
-E-Commerce Performance Dashboard
+
+- E-Commerce Performance Dashboard
 Sales & orders analysis, 1,200-row dataset (Decodelabs)
 Excel, SQL Server (SSMS)
-Netflix/IMDb Content Analysis
-Release trends & rating analysis, 5,806 titles
-Excel, HTML dashboard
+
+-Netflix/IMDb Content Analysis
+Release trends & rating analysis, 5,806 titles(Capstone Project)
+Excel, power Bi dashboard.
 
 ## 🔎Problem-Solving Approach
 I always start by clarifying the actual business question before touching any data. "What decision does this analysis need to support?" is my first question every time.
